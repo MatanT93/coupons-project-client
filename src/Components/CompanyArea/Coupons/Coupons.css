@@ -1,0 +1,11 @@
+.Coupons {
+    display: grid;
+    place-items: center;
+    justify-items: space-between;
+}
+
+.MuiBox-root.css-1v5z18m {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}

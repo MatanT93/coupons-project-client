@@ -1,0 +1,15 @@
+.Login {
+    background-color: linear-gradient(to right top,#a1a1a1, #84b4d4, #00d1e3, #00e7a2, #a8eb12);
+}
+.LoginCard {
+    width: 20%;
+    margin: auto;
+    padding: 0;
+    margin-top: 30px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.Login .MuiInputBase-root{
+    margin: 10px;
+}

@@ -1,0 +1,9 @@
+.CustomerCoupons {
+    display: grid;
+    place-items: center;
+    justify-items: space-between;
+    gap: 2rem;
+    align-items: center;
+
+}
+
